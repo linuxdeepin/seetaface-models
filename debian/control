@@ -1,0 +1,14 @@
+Source: seetaface-models
+Section: devel
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Build-Depends: debhelper (>= 11),
+Standards-Version: 4.5.1
+Homepage: http://www.deepin.org
+Rules-Requires-Root: no
+
+Package: seetaface-models
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends},
+Description: seetaface models for deepin
+ seetaface data models for deepin.
