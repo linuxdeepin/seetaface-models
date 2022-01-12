@@ -1,1 +1,6 @@
-files/* /usr/share/seetaface-models/
+files/pose_estimation.csta /usr/share/seetaface-models/
+files/fas_first.csta /usr/share/seetaface-models/
+files/fas_second.csta /usr/share/seetaface-models/
+files/face_landmarker_pts5.csta /usr/share/seetaface-models/
+files/face_recognizer_light.csta /usr/share/seetaface-models/
+files/face_detector.csta /usr/share/seetaface-models/
